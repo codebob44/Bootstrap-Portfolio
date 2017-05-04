@@ -1,0 +1,68 @@
+.navbar-header {
+	background-color: #4aaaa5;
+	color: #fff;
+}
+
+.navbar-default .navbar-brand {
+	color: #fff;
+}
+.icon-image {
+	width: 80px;
+	height: auto;
+}
+
+h1 {
+	background-color: #fff;
+	color: #4aaaa5;
+}
+
+.panel-title {
+	color: #4aaaa5;
+
+}
+
+
+footer {
+	text-align: center;
+	background: #666;
+	color: #ccc;
+	border-top: 8px solid #4aaaa5;
+}
+
+.img {
+	width: 40px
+	height: auto; 
+
+}
+
+.box-set {
+    position: relative;
+    float: left;
+    width: 274px;
+    margin: 20px 0 25px;
+    overflow: auto;
+}
+
+.box-set:nth-child(even) { 
+    margin-right: 40px;
+}
+
+.box-set img {
+    width: 100%;
+    border: 0 none;
+    opacity: 0.8;
+}
+
+.box-set h3 {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color: #fff;
+    text-align: center;
+    background: #4aaaa5;
+    border-bottom: 0;
+}
